@@ -1,0 +1,14 @@
+# Ignore the massive image dataset folder
+Fruits_Vegetables/
+
+# Ignore individual test images
+Apple.jpg
+Corn.jpg
+paprika.jpg
+
+# Ignore the heavy trained model file
+Image_Classify.keras
+
+# Ignore standard notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
