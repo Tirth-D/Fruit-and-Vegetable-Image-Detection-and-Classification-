@@ -10,4 +10,4 @@ The dataset utilized for training, validating, and evaluating this Deep Learning
 
 To maintain a lightweight repository and comply with GitHub's file size boundaries, the raw image binaries are hosted publicly on Kaggle. You can explore, download, or clone the complete dataset directly from the official landing page:
 
-👉 **[Access the Dataset on Kaggle](https://www.kaggle.com/datasets/your-username/fruit-and-vegetable-image-recognition)**
+👉 **[Access the Dataset on Kaggle](https://www.kaggle.com/datasets/tirthdavariya/fruit-and-vegetable-image-dataset-zip-file)**
