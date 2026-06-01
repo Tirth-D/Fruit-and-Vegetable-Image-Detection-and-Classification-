@@ -6,7 +6,20 @@
 This project is a Deep Learning image classifier built to detect and classify various fruits and vegetables.
 
 ## Dataset
-The dataset utilized for training, validating, and evaluating this Deep Learning model consists of thousands of structured fruit and vegetable images. 
+The dataset utilized for training, validating, and evaluating this Deep Learning model consists of thousands of structured fruit and vegetable images.
+Structure of Dataset:
+├── train/
+│ ├── apple/
+│ ├── banana/
+│ └── [other_classes]/
+├── validation/
+│ ├── apple/
+│ ├── banana/
+│ └── [other_classes]/
+└── test/
+├── apple/
+├── banana/
+└── [other_classes]/
 
 To maintain a lightweight repository and comply with GitHub's file size boundaries, the raw image binaries are hosted publicly on Kaggle. You can explore, download, or clone the complete dataset directly from the official landing page:
 
